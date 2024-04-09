@@ -1,4 +1,4 @@
-# Traffic Sign Recognition using Convolutional Neural Networks
+# Traffic Sign Recognition using Web Cam
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
@@ -13,7 +13,6 @@ Traffic sign recognition plays a crucial role in enhancing road safety and navig
 - Installation
 - Usage
 - Results
-- Future Improvements
 - References
 
 ---
